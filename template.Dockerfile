@@ -7,7 +7,6 @@ RUN set -e && \
     && apk add \
             bash \
             shadow \
-            libzip-dev \
     && usermod -u 1000 www-data && groupmod -g 1000 www-data \
     && apk del shadow \
     && rm -rf /var/cache/apk/*
