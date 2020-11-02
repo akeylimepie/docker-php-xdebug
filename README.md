@@ -1,5 +1,9 @@
 # PHP 8 + Xdebug
 
+```
+docker pull akeylimepie/php-fpm:8.0RC3-latest
+```
+
 | | prod | dev |
 | --- | --- | --- |
 | Composer `2.0.4` | &check; | &check; |
