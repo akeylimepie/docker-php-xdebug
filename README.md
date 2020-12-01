@@ -13,10 +13,10 @@ docker pull akeylimepie/php-fpm:8.0RC3-latest
 
 | prod | dev |
 | --- | --- |
-| 8.0RC5-latest | 8.0RC5-latest-dev |
-| 8.0.0RC5 | 8.0.0RC5-dev |
+| 8.0-latest | 8.0-latest-dev |
+| 8.0.0 | 8.0.0-dev |
 | 7.4-latest | 7.4-latest-dev |
-| 7.4.12 | 7.4.12-dev |
+| 7.4.13 | 7.4.13-dev |
 | 7.3-latest | 7.3-latest-dev |
-| 7.3.24 | 7.3.24-dev |
+| 7.3.25 | 7.3.25-dev |
 
