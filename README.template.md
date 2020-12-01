@@ -1,7 +1,7 @@
 # PHP 8 + Xdebug
 
 ```
-docker pull akeylimepie/php-fpm:8.0RC3-latest
+docker pull akeylimepie/php-fpm:8.0-latest
 ```
 
 | | prod | dev |
