@@ -3,8 +3,8 @@ set -ex
 
 IMAGE=akeylimepie/php-fpm
 
-COMPOSER_VERSION=2.0.7
-XDEBUG_VERSION=3.0.0
+COMPOSER_VERSION=2.0.8
+XDEBUG_VERSION=3.0.1
 
 DOCKERFILE_TEMPLATE=$(<./template.dockerfile)
 DOCKERFILE_PROD=$(<./environments/prod.dockerfile)
