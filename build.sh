@@ -4,7 +4,7 @@ set -ex
 IMAGE=akeylimepie/php-fpm
 
 COMPOSER_VERSION=2.0.8
-XDEBUG_VERSION=3.0.1
+XDEBUG_VERSION=3.0.2
 
 DOCKERFILE_TEMPLATE=$(<./template.dockerfile)
 DOCKERFILE_PROD=$(<./environments/prod.dockerfile)
@@ -83,9 +83,9 @@ function readme() {
 }
 
 PHP_VERSIONS=(
-  8.0.0
-  7.4.13
-  7.3.25
+  8.0.1
+  7.4.14
+  7.3.26
 )
 
 for PHP_VERSION in "${PHP_VERSIONS[@]}"; do
