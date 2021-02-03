@@ -10,7 +10,7 @@ docker pull akeylimepie/php-fpm:8.0-latest
 
 | | prod | dev |
 | --- | --- | --- |
-| Composer `2.0.8` | &check; | &check; |
+| Composer `2.0.9` | &check; | &check; |
 | Xdebug `3.0.2` |  | &check; |
 
 ## Supported tags
