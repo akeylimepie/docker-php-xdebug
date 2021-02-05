@@ -83,9 +83,9 @@ function readme() {
 }
 
 PHP_VERSIONS=(
-  8.0.1
-  7.4.14
-  7.3.26
+  8.0.2
+  7.4.15
+  7.3.27
 )
 
 for PHP_VERSION in "${PHP_VERSIONS[@]}"; do
