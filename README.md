@@ -10,15 +10,15 @@ docker pull akeylimepie/php-fpm:8.0-latest
 
 | | prod | dev |
 | --- | --- | --- |
-| Composer `2.0.12` | &check; | &check; |
-| Xdebug `3.0.3` |  | &check; |
+| Composer `2.0.13` | &check; | &check; |
+| Xdebug `3.0.4` |  | &check; |
 
 ## Supported tags
 
 | prod | dev |
 | --- | --- |
 | 8.0-latest | 8.0-latest-dev |
-| 8.0.3 | 8.0.3-dev |
+| 8.0.5 | 8.0.5-dev |
 | 7.4-latest | 7.4-latest-dev |
-| 7.4.16 | 7.4.16-dev |
+| 7.4.18 | 7.4.18-dev |
 
